@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Equity Research Skill</title>
+  <desc id="desc">An English investment research workflow from Valuation Lab. Business evidence, operating forecasts and investment judgment.</desc>
+  <rect width="1280" height="420" fill="#f5f6f0"/>
+  <rect x="0" y="0" width="15" height="420" fill="#245b49"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="66" y="61" fill="#597364" font-size="16" letter-spacing="3">VALUATION LAB / RESEARCH METHODS</text>
+    <text x="62" y="140" fill="#20382f" font-size="59" font-weight="700">Equity Research Skill</text>
+    <text x="66" y="187" fill="#4f6258" font-size="23">A structured method for English company research.</text>
+    <path d="M66 225 H1210" stroke="#cbd5c7"/>
+    <rect x="66" y="257" width="340" height="98" rx="8" fill="#e6ecdf"/>
+    <rect x="452" y="257" width="340" height="98" rx="8" fill="#e6ecdf"/>
+    <rect x="838" y="257" width="372" height="98" rx="8" fill="#245b49"/>
+    <text x="88" y="289" fill="#58705c" font-size="13" letter-spacing="2">01 / UNDERSTAND</text>
+    <text x="88" y="326" fill="#20382f" font-size="24">Business and industry</text>
+    <text x="474" y="289" fill="#58705c" font-size="13" letter-spacing="2">02 / ESTIMATE</text>
+    <text x="474" y="326" fill="#20382f" font-size="24">Revenue and cash returns</text>
+    <text x="860" y="289" fill="#c7d7bd" font-size="13" letter-spacing="2">03 / ASSESS</text>
+    <text x="860" y="326" fill="#ffffff" font-size="24">Value and investment outlook</text>
+    <path d="M417 306 H440 M434 301 L440 306 L434 311 M803 306 H826 M820 301 L826 306 L820 311" fill="none" stroke="#70916e" stroke-width="2"/>
+    <text x="66" y="394" fill="#657466" font-size="14" letter-spacing="1">ENGLISH REPORTS   /   NINE CHAPTERS   /   MIT LICENSE</text>
+  </g>
+</svg>
