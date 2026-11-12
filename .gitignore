@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+.venv/
+node_modules/
+local-research/
+generated-reports/
+*.log
